@@ -11,8 +11,26 @@ Public policy is often hard to decipher and sometimes hidden from the people tha
 
 Information is power. By growing the access to information and increasing people’s understanding of information, people can be empowered to be more informed and active citizens, to have a say in what happens to the spaces that are important to them or the places they call home. As we witness this aftermath emerge in real time, we can ask ourselves: How can we become more involved when policies undergo change? How can we contribute to policy so that it reflects the values and the people of a community? How can we reconnect policy with the people it affects the most?
 
-# Data
+## Data
 * [Affordable Housing Production by Building](https://data.cityofnewyork.us/Housing-Development/Affordable-Housing-Production-by-Building/hg8x-zxpr)
 * [Affordable Housing Production by Project](https://data.cityofnewyork.us/Housing-Development/Affordable-Housing-Production-by-Project/hq68-rnsi)
 * [Local Law 44 - Rent Affordability](https://data.cityofnewyork.us/Housing-Development/Local-Law-44-Rent-Affordability/93d2-wh7s)
+
+## Software
+Rhino
+
+## Materials
+Clear and colored plexiglass
+
+## Lasercutting
+
+
+# Research
+## Affordable Housing
+
+## Gowanus Rezoning
+### Background
+### Analysis of current afforadble housing stock
+
+
 
