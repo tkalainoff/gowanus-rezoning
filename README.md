@@ -17,7 +17,7 @@ Information is power. By growing the access to information and increasing people
 * [Local Law 44 - Rent Affordability](https://data.cityofnewyork.us/Housing-Development/Local-Law-44-Rent-Affordability/93d2-wh7s)
 * [Local Law 44 - Unit Income Rent](https://data.cityofnewyork.us/Housing-Development/Local-Law-44-Unit-Income-Rent/9ay9-xkek/about_data)
 
-
+![Data Map](https://github.com/tkalainoff/gowanus-rezoning/blob/main/data/Data%20Map_2024-01-27.png)
 
 ## Software
 Rhino
@@ -28,7 +28,7 @@ Clear and colored plexiglass
 ## Lasercutting
 
 ## Printing
-[Besttype Printing NYC] (https://www.bestypeimaging.com/)
+[Besttype Printing NYC](https://www.bestypeimaging.com/)
 
 # Research
 ## Affordable Housing
