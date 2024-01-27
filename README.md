@@ -19,15 +19,74 @@ Information is power. By growing the access to information and increasing people
 
 ![Data Map](https://github.com/tkalainoff/gowanus-rezoning/blob/main/data/Data%20Map_2024-01-27.png)
 
+## Construction
+### Building 
+#### Data to Building Calculation
+
+### Building Tile
+#### Data to Building Tile Calculation
+
+## Installation
+[Sawhorse](https://www.amazon.com/Goplus-Sawhorse-Folding-Portable-Capacity/dp/B01MAUSXUZ/ref=asc_df_B01MAUSXUZ/?tag=hyprod-20&linkCode=df0&hvadid=309807921328&hvpos=&hvnetw=g&hvrand=1509549371645144741&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9129391&hvtargid=pla-571314869276&psc=1&mcid=6a291e840af636d99ed8c0dc9766e00c)
+[Vinyl Lettering](https://www.fineartimagingnyc.com/) Ask for Mark
+
 ## Software
 Rhino
 
 ## Materials
-Clear and colored plexiglass
+### Acrylic Sheets
+[Canal Plastics Center](https://www.canalplastic.com/?utm_source=google&utm_medium=cpc&utm_id=871207845&utm_content=41643630862&utm_term=acrylic%20nyc&creativeId=349834400770&adgroupid=41643630862&targetid=kwd-682838458314&gad_source=1&gclid=CjwKCAiA8NKtBhBtEiwAq5aX2LToFdDUDeu0ox8hfbplj7FCcCbgWTh8DJKgr2hJ_7cs56ji4c7FoRoC7gYQAvD_BwE)
+
+Acrylic Sheets - Clear
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+Acrylic Sheets - Color 1
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+Acrylic Sheets - Color 2
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+Acrylic Sheets - Color 3
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+Acrylic Sheets - Color 4
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+Acrylic Sheets - Color 5
+* Dimensions:
+* Thickness:
+* Special Effect:
+* Surface Finish:
+
+### Acrylic Rod/Square Rod
+
+### Adhesive
+[Tensol 70](https://cutlasercut.com/drawing-resources/expert-tips/bonding-acrylic/#:~:text=Acrylics%20are%20not%20actually%20glued,strength%20isn't%20so%20important.)
 
 ## Lasercutting
 
-## Printing
+Parsons Lasercutting
+* Max Dimensions of Bed:
+
+Pratt Lasercutting
+* Max Dimensions of Bed:
+
+## Pamphlet Printing
 [Besttype Printing NYC](https://www.bestypeimaging.com/)
 
 # Research
