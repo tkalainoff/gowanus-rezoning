@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20231115</CreaDate>
+		<CreaTime>11384800</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">HousingDB_by_2020_CDTA</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">913175.109009</westBL>
+					<eastBL Sync="TRUE">1067382.508606</eastBL>
+					<southBL Sync="TRUE">120128.369995</southBL>
+					<northBL Sync="TRUE">272844.293823</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemSize Sync="TRUE">1.510</itemSize>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\DCP-DELL-1980\C$\Temp\Housing_Dev_DB\2023\23q2\shp\HousingDB_by_2020_CDTA.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.1.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,984250.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-74.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,40.66666666666666],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,41.03333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,40.16666666666666],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2263]]&lt;/WKT&gt;&lt;XOrigin&gt;-120039300&lt;/XOrigin&gt;&lt;YOrigin&gt;-96540300&lt;/YOrigin&gt;&lt;XYScale&gt;37212589.015695661&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102718&lt;/WKID&gt;&lt;LatestWKID&gt;2263&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20231115</SyncDate>
+		<SyncTime>11384800</SyncTime>
+		<ModDate>20231115</ModDate>
+		<ModTime>11384800</ModTime>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdDateSt>20230508</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>HousingDB by 2020 CDTA</resTitle>
+			<date>
+				<pubDate>2023-06-30</pubDate>
+			</date>
+			<resEd>23q2</resEd>
+			<citRespParty>
+				<rpOrgName>NYC Department of City Planning (DCP)</rpOrgName>
+				<role>
+					<RoleCd value="010"/>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+		</idCitation>
+		<idAbs>
+                The NYC Department of City Planning’s (DCP) Housing Database Aggregate Tables provide the net change in Class A housing units since the 2010 and the count of units pending completion for commonly used political and statistical boundaries. These tables are aggregated from the DCP Housing Database, which is derived from Department of Buildings (DOB)-approved housing construction and demolition jobs filed or completed in NYC since January 1, 2010. Net housing unit change is calculated as the sum of all three construction job types that add or remove residential units: new buildings, major alterations, and demolitions, and can be used to determine the change in legal housing units across time and space.
+			</idAbs>
+		<idPurp>Net change in housing units arising from new buildings, demolitions, or alterations for NYC 2020 CDTAs since 2010. </idPurp>
+		<idCredit>DOB Job Application Filings Open Data, DOB Certificate of Occupancy Open Data, DOB Permit Issuance Open Data, NYC DCP</idCredit>
+		<idStatus>
+			<ProgCd value="007"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>New York City Department of City Planning</rpIndName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<idPoC>
+			<rpIndName>New York City Department of City Planning</rpIndName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="007"/>
+			</maintFreq>
+		</resMaint>
+		<themeKeys>
+			<keyword>CDTA</keyword>
+			<keyword>House</keyword>
+			<keyword>Job Application</keyword>
+			<keyword>Development</keyword>
+			<keyword>Building</keyword>
+			<keyword>Housing</keyword>
+			<keyword>Filing</keyword>
+			<keyword>Pipeline</keyword>
+			<keyword>Certificate of Occupancy</keyword>
+			<keyword>Community District Tabulation Area</keyword>
+			<keyword>Dwelling Unit</keyword>
+			<keyword>CO</keyword>
+			<keyword>Net Units</keyword>
+			<keyword>Permit</keyword>
+			<keyword>Construction</keyword>
+			<keyword>Unit Change</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>CDTA</keyword>
+			<keyword>House</keyword>
+			<keyword>Job Application</keyword>
+			<keyword>Development</keyword>
+			<keyword>Building</keyword>
+			<keyword>Housing</keyword>
+			<keyword>Filing</keyword>
+			<keyword>Pipeline</keyword>
+			<keyword>Certificate of Occupancy</keyword>
+			<keyword>Community District Tabulation Area</keyword>
+			<keyword>Dwelling Unit</keyword>
+			<keyword>CO</keyword>
+			<keyword>Net Units</keyword>
+			<keyword>Permit</keyword>
+			<keyword>Construction</keyword>
+			<keyword>Unit Change</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts><useLimit>The DCP Housing Database is being provided by the Department of City Planning (DCP) on DCP's website for informational purposes only. DCP does not warranty the completeness, accuracy, content, or fitness for any particular purpose or use of the Database, nor are any such warranties to be implied or inferred with respect to the Database as furnished on the website. DCP and the City are not liable for any deficiencies in the completeness, accuracy, content, or fitness for any particular purpose or use of the Database, or applications utilizing the Database, provided by any third party.</useLimit>
+			</Consts>
+		</resConst>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<envirDesc> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-74.256163</westBL>
+					<eastBL>-73.706797</eastBL>
+					<northBL>40.914008</northBL>
+					<southBL>40.498119</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataExt>
+			<exDesc>This is the date range during which the most recent data was collected; however, some of the source datasets are older.</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Period>
+							<tmBegin>2010-01-01</tmBegin>
+							<tmEnd>2023-06-30</tmEnd>
+						</TM_Period>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+	</dataIdInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="004"/>
+				</geoObjTyp>
+				<geoObjCnt>33429</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>HousingDB_by_2020_CDTA</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>cdtaname20</attrlabl>
+				<attrdef>2020 Community District Tabulation Area (CDTA) descriptive name</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2020ap</attrlabl>
+				<attrdef>Net number of class A housing units completed between April 1, 2010 and Decemper 31, 2010, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2010</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2011</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2012</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2013</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2014</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2015</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2016</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2017</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2018</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2019</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2020</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2021</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2022</attrlabl>
+				<attrdef>Net number of class A housing units completed year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>comp2023</attrlabl>
+				<attrdef>Net number of class A housing units completed in stated year to date, accounting for new buildings, alterations, and demolitions</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>cenunits20</attrlabl>
+				<attrdef>Number of total housing units counted in Census on April 1, 2020</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>filed</attrlabl>
+				<attrdef>Net number of incomplete class A housing units where the job status is filed. Excludes inactive jobs.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>approved</attrlabl>
+				<attrdef>Net number of incomplete class A housing units where the job status is application approved. Excludes inactive jobs.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>permitted</attrlabl>
+				<attrdef>Net number of incomplete class A housing units where the job status is permit issued. Excludes inactive jobs.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>withdrawn</attrlabl>
+				<attrdef>Net number of incomplete class A housing units where the job status is withdrawn.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>inactive</attrlabl>
+				<attrdef>Net number of incomplete class A housing units where the job is inactive but not withdrawn.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+</metadata>

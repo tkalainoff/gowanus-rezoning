@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20231115</CreaDate>
+		<CreaTime>11385000</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">HousingDB_post2010</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">913283.043281</westBL>
+					<eastBL Sync="TRUE">1067103.657281</eastBL>
+					<southBL Sync="TRUE">121054.875706</southBL>
+					<northBL Sync="TRUE">272494.472753</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemSize Sync="TRUE">1.979</itemSize>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\DCP-DELL-1980\C$\Temp\Housing_Dev_DB\2023\23q2\shp\HousingDB_post2010.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.1.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,984250.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-74.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,40.66666666666666],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,41.03333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,40.16666666666666],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2263]]&lt;/WKT&gt;&lt;XOrigin&gt;-120039300&lt;/XOrigin&gt;&lt;YOrigin&gt;-96540300&lt;/YOrigin&gt;&lt;XYScale&gt;37212589.015695661&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102718&lt;/WKID&gt;&lt;LatestWKID&gt;2263&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20231115</SyncDate>
+		<SyncTime>11385000</SyncTime>
+		<ModDate>20231115</ModDate>
+		<ModTime>11385000</ModTime>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdDateSt>20230508</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>HousingDB post2010</resTitle>
+			<date>
+				<pubDate>2023-06-30</pubDate>
+			</date>
+			<resEd>23q2</resEd>
+			<citRespParty>
+				<rpOrgName>NYC Department of City Planning (DCP)</rpOrgName>
+				<role>
+					<RoleCd value="010"/>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+		</idCitation>
+		<idAbs>
+                The NYC Department of City Planning’s (DCP) Housing Database Aggregate Tables provide the net change in Class A housing units since the 2010 and the count of units pending completion for commonly used political and statistical boundaries. These tables are aggregated from the DCP Housing Database, which is derived from Department of Buildings (DOB)-approved housing construction and demolition jobs filed or completed in NYC since January 1, 2010. Net housing unit change is calculated as the sum of all three construction job types that add or remove residential units: new buildings, major alterations, and demolitions, and can be used to determine the change in legal housing units across time and space.
+			</idAbs>
+		<idPurp>Data for all active new buildings, demolitions, and major alterations involving housing units in NYC since 2010.</idPurp>
+		<idCredit>DOB Job Application Filings Open Data, DOB Certificate of Occupancy Open Data, DOB Permit Issuance Open Data, NYC DCP</idCredit>
+		<idStatus>
+			<ProgCd value="007"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>New York City Department of City Planning</rpIndName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<idPoC>
+			<rpIndName>New York City Department of City Planning</rpIndName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="007"/>
+			</maintFreq>
+		</resMaint>
+		<themeKeys>
+			<keyword>Demolition</keyword>
+			<keyword>House</keyword>
+			<keyword>Job Application</keyword>
+			<keyword>Development</keyword>
+			<keyword>Class B</keyword>
+			<keyword>Building</keyword>
+			<keyword>Housing</keyword>
+			<keyword>Filing</keyword>
+			<keyword>Pipeline</keyword>
+			<keyword>Certificate of Occupancy</keyword>
+			<keyword>Class A</keyword>
+			<keyword>Alteration</keyword>
+			<keyword>Dwelling Unit</keyword>
+			<keyword>CO</keyword>
+			<keyword>Existing Units</keyword>
+			<keyword>Net Units</keyword>
+			<keyword>Permit</keyword>
+			<keyword>Construction</keyword>
+			<keyword>Hotel</keyword>
+			<keyword>Proposed Units</keyword>
+			<keyword>Unit Change</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>Demolition</keyword>
+			<keyword>House</keyword>
+			<keyword>Job Application</keyword>
+			<keyword>Development</keyword>
+			<keyword>Class B</keyword>
+			<keyword>Building</keyword>
+			<keyword>Housing</keyword>
+			<keyword>Filing</keyword>
+			<keyword>Pipeline</keyword>
+			<keyword>Certificate of Occupancy</keyword>
+			<keyword>Class A</keyword>
+			<keyword>Alteration</keyword>
+			<keyword>Dwelling Unit</keyword>
+			<keyword>CO</keyword>
+			<keyword>Existing Units</keyword>
+			<keyword>Net Units</keyword>
+			<keyword>Permit</keyword>
+			<keyword>Construction</keyword>
+			<keyword>Hotel</keyword>
+			<keyword>Proposed Units</keyword>
+			<keyword>Unit Change</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts><useLimit>The DCP Housing Database is being provided by the Department of City Planning (DCP) on DCP's website for informational purposes only. DCP does not warranty the completeness, accuracy, content, or fitness for any particular purpose or use of the Database, nor are any such warranties to be implied or inferred with respect to the Database as furnished on the website. DCP and the City are not liable for any deficiencies in the completeness, accuracy, content, or fitness for any particular purpose or use of the Database, or applications utilizing the Database, provided by any third party.</useLimit>
+			</Consts>
+		</resConst>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<envirDesc> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-74.256163</westBL>
+					<eastBL>-73.706797</eastBL>
+					<northBL>40.914008</northBL>
+					<southBL>40.498119</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataExt>
+			<exDesc>This is the date range during which the most recent data was collected; however, some of the source datasets are older.</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Period>
+							<tmBegin>2010-01-01</tmBegin>
+							<tmEnd>2023-06-30</tmEnd>
+						</TM_Period>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+	</dataIdInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="004"/>
+				</geoObjTyp>
+				<geoObjCnt>33429</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>HousingDB_post2010</enttypl>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Job_Number</attrlabl>
+				<attrdef>The DOB job application number assigned when the applicant begins the application. This is the unique identifier for the application submitted to the Department of Buildings (DOB). It may contain several work types, and more work types may be added as the application review and the work continues. It is a 9-digit number where the first digit indicates the borough where the building is located.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Job_Type</attrlabl>
+				<attrdef>DOB's type category for the job application. More information is available here. The following types are included in this database:
+
+New Building (NB): an application to build a new structure. “NB” cannot be selected if any existing building elements are to remain—for example a part of an old foundation, a portion of a façade that will be incorporated into the construction, etc.
+
+Alteration Type I (A1): a major alteration that will change the use, egress, or occupancy of the building.
+
+Demolition (DM): an application to fully or partially demolish an existing building. Note that many demolition permits are only for partial demolitions and for garages (these are also captured).</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ResidFlag</attrlabl>
+				<attrdef>This field is used to identify jobs in buildings containing residential uses. A value of "residential" indicates that the job affects residential units in some way through new construction, alteration, or demolition. Only those jobs with a value of "residential" are included in the housing database. Manual research was conducted at DCP to help ensure that all work on buildings with residences receive this flag, though some records may remain misclassified.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NonresFlag</attrlabl>
+				<attrdef>This field is used to identify jobs in buildings containing non-residential uses. A value of "non-residential" indicates that the job affects some use type beyond residential, including commercial, industrial, or community facility uses. Mixed-use buildings will have values in both the Resid_Flag and Nonresid_Flag, since they contain both residential and nonresidential uses, but having flags in both of those columns does not necessarily mean that it is a mixed-use development since the flags do not distinguish between the initial and proposed uses in the building.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Job_Inactv</attrlabl>
+				<attrdef>Flag for job applications that are likely inactive. These records should be excluded in most analyses of incomplete jobs. Note that this definition is probability based and therefore can not capture all permits that may eventually become inactive. 
+
+Jobs are flagged ""inactive"" by DCP in the following cases:
+1. If status is ""filed"" or ""in progress"" and the application's status hasn’t changed in 3 years
+2. If status is ""In progress (last plan disapproved)"" and the application's status hasn’t changed in 2 years</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Job_Status</attrlabl>
+				<attrdef>DCP recode of DOB's status label. This describes the status of the job at the date of the data vintage. More details on each DOB status is available here:
+https://www1.nyc.gov/assets/buildings/pdf/bisjobstatus.pdf
+
+Jobs typically move through status A through X over time as they reach certain approval milestones:
+
+1. Filed: job application is at status A - G at the time of publication. Application submitted, but review is not yet in progress.
+
+2. Plan Examination: application is at status H - P. Plan examination is in progress, but not yet approved.
+
+3. Permitted: application is at status Q and R and may begin construction.
+
+4. Partial Complete: application at status U and X, and CO issued for NB or A1 job type, and the CO is a Temporary CO AND less than 80% of the units are completed for a building with 20 or more units.
+
+5. Complete: For new buildings and alterations, application is at status U and X, or a CO has been issued. For demolitions, the application is at status X. DCP has decided to mark demolitions as complete when they reach status X, but list the completion date as equal to status Q because this is likely when the building must be vacated, and it appears that many buildings are physically demolished some time before receiving sign off (status X).
+
+9. Withdrawn: application is at status 3. The application has been withdrawn by the applicant.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CompltYear</attrlabl>
+				<attrdef>Year the job was completed. For new buildings and alterations, this is defined as the year of the first certificate of occupancy issuance. For demolitions, this is the year that the demolition was permitted (reached status Q).
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CompltQrtr</attrlabl>
+				<attrdef>The year and quarter a job was completed. Follows the same logic as Complete_Year</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PermitYear</attrlabl>
+				<attrdef>Year the job was permitted. For all job types, this is defined as the status Q year.
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PermitQrtr</attrlabl>
+				<attrdef>The year and quarter the job was permitted. For all job types, this is defined as the status Q quarter. </attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ClassAInit</attrlabl>
+				<attrdef>Number of units that initially existed in the building at the time of the job application, as reported by the applicant. This field is edited by DCP to only count Class A units, which are units in houses or apartment buildings intended for long-term residential use (greater than 30 days), and typically do not require the use of shared kitchens and bathrooms. The definition of Class A and other unit types is available here:
+
+https://www1.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ClassAProp</attrlabl>
+				<attrdef>Number of units proposed in the job application after the proposed work has been completed, as reported by the applicant and edited by DCP to count only Class A units.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ClassANet</attrlabl>
+				<attrdef>Net change in Class A unit count between the number of units existing at the time of application and the number of units proposed.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ClassA_HNY</attrlabl>
+				<attrdef>The total number of affordable units, counted towards the Housing New York plan, that are in the building.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>HotelInit</attrlabl>
+				<attrdef>Number of hotel units that initially existed in the building at the time of the job application, as determined through DCP research. Note that hotel units are a subtype of Class B units which are typically occupied as for-profit businesses for short-term (less than 30 days), full-service lodging.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>HotelProp</attrlabl>
+				<attrdef>Number of hotel units proposed in the job application after the proposed work has been completed, as determined through DCP research.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OtherBInit</attrlabl>
+				<attrdef>Number of Class B units (excluding hotel units) that initially existed in building at the time of the job application, as determined through DCP research. Other Class B units include all dwellings that are not Class A units or hotels, and may include single room occupancy units, dormitories, certain kinds of supportive housing and assisted living, homeless shelters, convents and monasteries, among many other forms of temporary lodging or lodging with communal kitchens or bathrooms. The definition of Class B and other unit types is available here:
+
+https://www1.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Units_CO</attrlabl>
+				<attrdef>Number of dwelling units provided on the temporary or final certificates of occupancy. This unit count may include Class A units in addition to Class B units and hotel units.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OtherBProp</attrlabl>
+				<attrdef>Number of Class B units (excluding hotel units) proposed in the job application after the proposed work has been completed, as determined through DCP research.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Boro</attrlabl>
+				<attrdef>The NYC borough code where the proposed work will take place.
+
+1 = Manhattan
+2 = Bronx
+3 = Brooklyn
+4 = Queens
+5 = Staten Island</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BIN</attrlabl>
+				<attrdef>Building Identification Number (BIN), supplied by Geosupport, that identifies each unique building in the city. A 7 digit string starting with the borough code followed by a 6 digit unique building number.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BBL</attrlabl>
+				<attrdef>Borough-Block-Lot tax ID number of the parcel where the proposed work will take place.
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>AddressNum</attrlabl>
+				<attrdef>The house number for the building where the proposed work will take place.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>AddressSt</attrlabl>
+				<attrdef>The street name for the building where the proposed work will take place.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Occ_Init</attrlabl>
+				<attrdef>Description of the existing occupancy type at the time of the job application. This indicates what a site was used for before the proposed job. It is a more descriptive recode of the occupancy code that the applicant submitted to DOB as the initial occupancy type of the building. Note that the applicant may only choose one occupancy code, even in a building containing multiple uses, so this code is only able to describe one of many possible uses.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Bldg_Class</attrlabl>
+				<attrdef>Building Class code. A code used by Department of Finance (DOF) and Department of Buildings (DOB) describing the major use of a structure. This field is mapped from the 'buildingclass' field in the dob_jobapplications dataset.
+
+For more information see the Building Classifiaction code list on DOF's website: https://www1.nyc.gov/assets/finance/jump/hlpbldgcode.html</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Occ_Prop</attrlabl>
+				<attrdef>Description of the proposed occupancy type at the time of the job application. This indicates what a site will be used for after the proposed job is complete. It is a more descriptive recode of the occupancy code that the applicant submitted to DOB as the proposed occupancy type of the building. Note that the applicant may only choose one occupancy code, even in a building containing multiple uses, so this code is only able to describe one of many possible uses.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Job_Desc</attrlabl>
+				<attrdef>The general description of the work being applied for. This field is free text, and is filled out by the applicant.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DateFiled</attrlabl>
+				<attrdef>Date of job status A (pre-filing application). This is the first step in the process for all job applications. The job application # is assigned at this status. This occurs when the applicant submits any part of the application (even a single form), in person or electronically.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DatePermit</attrlabl>
+				<attrdef>Date of job status Q (first partial permit issuance). This is when construction work may begin. This field should be used for identifying the number of permits approved in a given year.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DateLstUpd</attrlabl>
+				<attrdef>The date of the last update to the DOB record for the job filing.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DateComplt</attrlabl>
+				<attrdef>DCP's best estimate of completion date for all jobs. For new buildings and alterations, date complete is equal to the date of the earliest certificate of occupancy. For demolitions, date complete is equal to status Q (permit issued), since demolitions do not receive certificates of occupancy. Blank indicates no certificate of occupancy has been issued. Typically, a building can be considered complete at this stage. Large buildings with many units may have units receiving certificates of occupancy over a longer period of time.</attrdef>
+				<attrdefs>NYC DPC</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ZoningDst1</attrlabl>
+				<attrdef>The primary zoning district of the tax lot per the applicant at time of application. For more information see http://www1.nyc.gov/site/planning/zoning/about-zoning.page.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ZoningDst2</attrlabl>
+				<attrdef>The secondary zoning district of the tax lot per the applicant at time of application.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ZoningDst3</attrlabl>
+				<attrdef>The tertiary zoning district of the tax lot per the applicant at time of application.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SpeclDst1</attrlabl>
+				<attrdef>The primary special zoning district of the tax lot per the applicant at time of application. Other zoning designations may appear in this field, such as industrial business zones (IBZ), mandatory inclusionary housing (MIH) areas, or other zoning designations. This field is provided by the applicant, and is likely inconsistent.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SpeclDst2</attrlabl>
+				<attrdef>The secondary special zoning district of the tax lot per the applicant at time of application.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Landmark</attrlabl>
+				<attrdef>Indicates that the building has been designated as a landmark building by the Landmarks Preservation Commission.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FloorsInit</attrlabl>
+				<attrdef>The existing number of floors in the building, as reported by the applicant.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FloorsProp</attrlabl>
+				<attrdef>The number of stories/floors in the building after the work is done, as reported by the applicant.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Enlargemnt</attrlabl>
+				<attrdef>This indicates if the work to be done under the application will result in a horizontal and/or vertical enlargement, as reported by the applicant. Values include: Horizontal, Vertical, Horizontal and Vertical, [blank]</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>EnlrgSF</attrlabl>
+				<attrdef>The additional square footage added by the construction enlargement, if any.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Ownership</attrlabl>
+				<attrdef>This indicates whether the property is government owned, the ownership structure, and non-profit status, as reported by the applicant and recoded by DCP.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CenTract10</attrlabl>
+				<attrdef>2010 Census Tract FIPS code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CenBlock10</attrlabl>
+				<attrdef>2010 Census Block FIPS code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BCTCB2010</attrlabl>
+				<attrdef>The Borough - 2010 Census Tract - 2010 Census Block code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BCT2010</attrlabl>
+				<attrdef>The Borough - 2010 Census Tract code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NTA2010</attrlabl>
+				<attrdef>2010 Neighborhood Tabulation Area (NTA) code.
+</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CenBlock20</attrlabl>
+				<attrdef>2020 Census Block FIPS code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CenTract20</attrlabl>
+				<attrdef>2020 Census Tract FIPS code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BCTCB2020</attrlabl>
+				<attrdef>The Borough - 2020 Census Tract - 2020 Census Block code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>BCT2020</attrlabl>
+				<attrdef>The Borough - 2020 Census Tract code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NTA2020</attrlabl>
+				<attrdef>2020 Neighborhood Tabulation Area (NTA) code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NTAName20</attrlabl>
+				<attrdef>2020 Neighborhood Tabulation Area (NTA) descriptive name.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CDTA2020</attrlabl>
+				<attrdef>2020 Community District Tabulation Area (CDTA) code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CDTAName20</attrlabl>
+				<attrdef>2020 Community District Tabulation Area (CDTA) descriptive name.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NTAName10</attrlabl>
+				<attrdef>2010 Neighborhood Tabulation Area (NTA) descriptive name.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CommntyDst</attrlabl>
+				<attrdef>NYC Community District code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CouncilDst</attrlabl>
+				<attrdef>NYC City Council District code (after 2013 redistricting).</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SchSubDist</attrlabl>
+				<attrdef>NYC School Subdistrict code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SchCommnty</attrlabl>
+				<attrdef>NYC Community School District code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SchElmntry</attrlabl>
+				<attrdef>NYC Elementary School Zone code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SchMiddle</attrlabl>
+				<attrdef>NYC Middle School Zone code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FireCmpany</attrlabl>
+				<attrdef>NYC Fire Company code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FireBattln</attrlabl>
+				<attrdef>NYC Fire Battalion code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FireDivsn</attrlabl>
+				<attrdef>NYC Fire Division code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PolicePcnt</attrlabl>
+				<attrdef>NYC Police Precinct code.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PL_FIRM07</attrlabl>
+				<attrdef>A value of 1 means that some portion of the tax lot falls within the 1% annual chance floodplain as determined by FEMA’s 2007 Flood Insurance Rate Map. Note that buildings on the tax lot may or may not be in the portion of the tax lot that is within the 1% annual chance floodplain.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PL_PFIRM15</attrlabl>
+				<attrdef>A value of 1 means that some portion of the tax lot falls within the 1% annual chance floodplain as determined by FEMA’s 2015 Preliminary Flood Insurance Rate Map. Note that buildings on the tax lot may or may not be in the portion of the tax lot that is within the 1% annual chance floodplain.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Latitude</attrlabl>
+				<attrdef>Latitude in WGS84 / SRID:4326</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Longitude</attrlabl>
+				<attrdef>Longitude in WGS84 / SRID:4326</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>GeomSource</attrlabl>
+				<attrdef>Source of the geographic coordinates for the record.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DCPEdited</attrlabl>
+				<attrdef>List of fields that were edited by DCP. This only lists fields where original DOB source data was overwritten by DCP, and doesn't include fields where DCP recodes data as part of the standard methodology.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Version</attrlabl>
+				<attrdef>Version of the Developments Database.</attrdef>
+				<attrdefs>NYC DCP</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+</metadata>
