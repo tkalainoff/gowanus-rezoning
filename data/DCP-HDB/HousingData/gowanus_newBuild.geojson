@@ -1,0 +1,636 @@
+{
+    "displayFieldName": "",
+    "fieldAliases": {
+      "OBJECTID": "OBJECTID",
+      "Job_Number": "Job_Number",
+      "Job_Type": "Job_Type",
+      "ResidFlag": "ResidFlag",
+      "NonresFlag": "NonresFlag",
+      "Job_Inactv": "Job_Inactv",
+      "Job_Status": "Job_Status",
+      "CompltYear": "CompltYear",
+      "CompltQrtr": "CompltQrtr",
+      "PermitYear": "PermitYear",
+      "PermitQrtr": "PermitQrtr",
+      "ClassAInit": "ClassAInit",
+      "ClassAProp": "ClassAProp",
+      "ClassANet": "ClassANet",
+      "ClassA_HNY": "ClassA_HNY",
+      "HotelInit": "HotelInit",
+      "HotelProp": "HotelProp",
+      "OtherBInit": "OtherBInit",
+      "OtherBProp": "OtherBProp",
+      "Units_CO": "Units_CO",
+      "Boro": "Boro",
+      "BIN": "BIN",
+      "BBL": "BBL",
+      "AddressNum": "AddressNum",
+      "AddressSt": "AddressSt",
+      "Occ_Init": "Occ_Init",
+      "Occ_Prop": "Occ_Prop",
+      "Bldg_Class": "Bldg_Class",
+      "Job_Desc": "Job_Desc",
+      "DateFiled": "DateFiled",
+      "DatePermit": "DatePermit",
+      "DateLstUpd": "DateLstUpd",
+      "DateComplt": "DateComplt",
+      "ZoningDst1": "ZoningDst1",
+      "ZoningDst2": "ZoningDst2",
+      "ZoningDst3": "ZoningDst3",
+      "SpeclDst1": "SpeclDst1",
+      "SpeclDst2": "SpeclDst2",
+      "Landmark": "Landmark",
+      "FloorsInit": "FloorsInit",
+      "FloorsProp": "FloorsProp",
+      "Enlargemnt": "Enlargemnt",
+      "EnlrgSF": "EnlrgSF",
+      "Ownership": "Ownership",
+      "CenBlock20": "CenBlock20",
+      "CenTract20": "CenTract20",
+      "BCTCB2020": "BCTCB2020",
+      "BCT2020": "BCT2020",
+      "NTA2020": "NTA2020",
+      "NTAName20": "NTAName20",
+      "CDTA2020": "CDTA2020",
+      "CDTAName20": "CDTAName20",
+      "CommntyDst": "CommntyDst",
+      "CouncilDst": "CouncilDst",
+      "SchSubDist": "SchSubDist",
+      "SchCommnty": "SchCommnty",
+      "SchElmntry": "SchElmntry",
+      "SchMiddle": "SchMiddle",
+      "FireCmpany": "FireCmpany",
+      "FireBattln": "FireBattln",
+      "FireDivsn": "FireDivsn",
+      "PolicePcnt": "PolicePcnt",
+      "PL_FIRM07": "PL_FIRM07",
+      "PL_PFIRM15": "PL_PFIRM15",
+      "Latitude": "Latitude",
+      "Longitude": "Longitude",
+      "GeomSource": "GeomSource",
+      "DCPEdited": "DCPEdited",
+      "Version": "Version"
+    },
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+      "wkid": 102718,
+      "latestWkid": 2263
+    },
+    "fields": [
+      {
+        "name": "OBJECTID",
+        "type": "esriFieldTypeOID",
+        "alias": "OBJECTID"
+      },
+      {
+        "name": "Job_Number",
+        "type": "esriFieldTypeString",
+        "alias": "Job_Number",
+        "length": 80
+      },
+      {
+        "name": "Job_Type",
+        "type": "esriFieldTypeString",
+        "alias": "Job_Type",
+        "length": 80
+      },
+      {
+        "name": "ResidFlag",
+        "type": "esriFieldTypeString",
+        "alias": "ResidFlag",
+        "length": 80
+      },
+      {
+        "name": "NonresFlag",
+        "type": "esriFieldTypeString",
+        "alias": "NonresFlag",
+        "length": 80
+      },
+      {
+        "name": "Job_Inactv",
+        "type": "esriFieldTypeString",
+        "alias": "Job_Inactv",
+        "length": 80
+      },
+      {
+        "name": "Job_Status",
+        "type": "esriFieldTypeString",
+        "alias": "Job_Status",
+        "length": 80
+      },
+      {
+        "name": "CompltYear",
+        "type": "esriFieldTypeString",
+        "alias": "CompltYear",
+        "length": 80
+      },
+      {
+        "name": "CompltQrtr",
+        "type": "esriFieldTypeString",
+        "alias": "CompltQrtr",
+        "length": 80
+      },
+      {
+        "name": "PermitYear",
+        "type": "esriFieldTypeString",
+        "alias": "PermitYear",
+        "length": 80
+      },
+      {
+        "name": "PermitQrtr",
+        "type": "esriFieldTypeString",
+        "alias": "PermitQrtr",
+        "length": 80
+      },
+      {
+        "name": "ClassAInit",
+        "type": "esriFieldTypeDouble",
+        "alias": "ClassAInit"
+      },
+      {
+        "name": "ClassAProp",
+        "type": "esriFieldTypeDouble",
+        "alias": "ClassAProp"
+      },
+      {
+        "name": "ClassANet",
+        "type": "esriFieldTypeDouble",
+        "alias": "ClassANet"
+      },
+      {
+        "name": "ClassA_HNY",
+        "type": "esriFieldTypeDouble",
+        "alias": "ClassA_HNY"
+      },
+      {
+        "name": "HotelInit",
+        "type": "esriFieldTypeInteger",
+        "alias": "HotelInit"
+      },
+      {
+        "name": "HotelProp",
+        "type": "esriFieldTypeInteger",
+        "alias": "HotelProp"
+      },
+      {
+        "name": "OtherBInit",
+        "type": "esriFieldTypeInteger",
+        "alias": "OtherBInit"
+      },
+      {
+        "name": "OtherBProp",
+        "type": "esriFieldTypeInteger",
+        "alias": "OtherBProp"
+      },
+      {
+        "name": "Units_CO",
+        "type": "esriFieldTypeDouble",
+        "alias": "Units_CO"
+      },
+      {
+        "name": "Boro",
+        "type": "esriFieldTypeString",
+        "alias": "Boro",
+        "length": 80
+      },
+      {
+        "name": "BIN",
+        "type": "esriFieldTypeString",
+        "alias": "BIN",
+        "length": 80
+      },
+      {
+        "name": "BBL",
+        "type": "esriFieldTypeString",
+        "alias": "BBL",
+        "length": 80
+      },
+      {
+        "name": "AddressNum",
+        "type": "esriFieldTypeString",
+        "alias": "AddressNum",
+        "length": 80
+      },
+      {
+        "name": "AddressSt",
+        "type": "esriFieldTypeString",
+        "alias": "AddressSt",
+        "length": 80
+      },
+      {
+        "name": "Occ_Init",
+        "type": "esriFieldTypeString",
+        "alias": "Occ_Init",
+        "length": 80
+      },
+      {
+        "name": "Occ_Prop",
+        "type": "esriFieldTypeString",
+        "alias": "Occ_Prop",
+        "length": 80
+      },
+      {
+        "name": "Bldg_Class",
+        "type": "esriFieldTypeString",
+        "alias": "Bldg_Class",
+        "length": 80
+      },
+      {
+        "name": "Job_Desc",
+        "type": "esriFieldTypeString",
+        "alias": "Job_Desc",
+        "length": 254
+      },
+      {
+        "name": "DateFiled",
+        "type": "esriFieldTypeString",
+        "alias": "DateFiled",
+        "length": 80
+      },
+      {
+        "name": "DatePermit",
+        "type": "esriFieldTypeDate",
+        "alias": "DatePermit",
+        "length": 8
+      },
+      {
+        "name": "DateLstUpd",
+        "type": "esriFieldTypeString",
+        "alias": "DateLstUpd",
+        "length": 80
+      },
+      {
+        "name": "DateComplt",
+        "type": "esriFieldTypeDate",
+        "alias": "DateComplt",
+        "length": 8
+      },
+      {
+        "name": "ZoningDst1",
+        "type": "esriFieldTypeString",
+        "alias": "ZoningDst1",
+        "length": 80
+      },
+      {
+        "name": "ZoningDst2",
+        "type": "esriFieldTypeString",
+        "alias": "ZoningDst2",
+        "length": 80
+      },
+      {
+        "name": "ZoningDst3",
+        "type": "esriFieldTypeString",
+        "alias": "ZoningDst3",
+        "length": 80
+      },
+      {
+        "name": "SpeclDst1",
+        "type": "esriFieldTypeString",
+        "alias": "SpeclDst1",
+        "length": 80
+      },
+      {
+        "name": "SpeclDst2",
+        "type": "esriFieldTypeString",
+        "alias": "SpeclDst2",
+        "length": 80
+      },
+      {
+        "name": "Landmark",
+        "type": "esriFieldTypeString",
+        "alias": "Landmark",
+        "length": 80
+      },
+      {
+        "name": "FloorsInit",
+        "type": "esriFieldTypeDouble",
+        "alias": "FloorsInit"
+      },
+      {
+        "name": "FloorsProp",
+        "type": "esriFieldTypeDouble",
+        "alias": "FloorsProp"
+      },
+      {
+        "name": "Enlargemnt",
+        "type": "esriFieldTypeString",
+        "alias": "Enlargemnt",
+        "length": 80
+      },
+      {
+        "name": "EnlrgSF",
+        "type": "esriFieldTypeString",
+        "alias": "EnlrgSF",
+        "length": 80
+      },
+      {
+        "name": "Ownership",
+        "type": "esriFieldTypeString",
+        "alias": "Ownership",
+        "length": 80
+      },
+      {
+        "name": "CenBlock20",
+        "type": "esriFieldTypeString",
+        "alias": "CenBlock20",
+        "length": 80
+      },
+      {
+        "name": "CenTract20",
+        "type": "esriFieldTypeString",
+        "alias": "CenTract20",
+        "length": 80
+      },
+      {
+        "name": "BCTCB2020",
+        "type": "esriFieldTypeString",
+        "alias": "BCTCB2020",
+        "length": 80
+      },
+      {
+        "name": "BCT2020",
+        "type": "esriFieldTypeString",
+        "alias": "BCT2020",
+        "length": 80
+      },
+      {
+        "name": "NTA2020",
+        "type": "esriFieldTypeString",
+        "alias": "NTA2020",
+        "length": 80
+      },
+      {
+        "name": "NTAName20",
+        "type": "esriFieldTypeString",
+        "alias": "NTAName20",
+        "length": 80
+      },
+      {
+        "name": "CDTA2020",
+        "type": "esriFieldTypeString",
+        "alias": "CDTA2020",
+        "length": 80
+      },
+      {
+        "name": "CDTAName20",
+        "type": "esriFieldTypeString",
+        "alias": "CDTAName20",
+        "length": 80
+      },
+      {
+        "name": "CommntyDst",
+        "type": "esriFieldTypeString",
+        "alias": "CommntyDst",
+        "length": 80
+      },
+      {
+        "name": "CouncilDst",
+        "type": "esriFieldTypeString",
+        "alias": "CouncilDst",
+        "length": 80
+      },
+      {
+        "name": "SchSubDist",
+        "type": "esriFieldTypeString",
+        "alias": "SchSubDist",
+        "length": 80
+      },
+      {
+        "name": "SchCommnty",
+        "type": "esriFieldTypeString",
+        "alias": "SchCommnty",
+        "length": 80
+      },
+      {
+        "name": "SchElmntry",
+        "type": "esriFieldTypeString",
+        "alias": "SchElmntry",
+        "length": 80
+      },
+      {
+        "name": "SchMiddle",
+        "type": "esriFieldTypeString",
+        "alias": "SchMiddle",
+        "length": 80
+      },
+      {
+        "name": "FireCmpany",
+        "type": "esriFieldTypeString",
+        "alias": "FireCmpany",
+        "length": 80
+      },
+      {
+        "name": "FireBattln",
+        "type": "esriFieldTypeString",
+        "alias": "FireBattln",
+        "length": 80
+      },
+      {
+        "name": "FireDivsn",
+        "type": "esriFieldTypeString",
+        "alias": "FireDivsn",
+        "length": 80
+      },
+      {
+        "name": "PolicePcnt",
+        "type": "esriFieldTypeString",
+        "alias": "PolicePcnt",
+        "length": 80
+      },
+      {
+        "name": "PL_FIRM07",
+        "type": "esriFieldTypeString",
+        "alias": "PL_FIRM07",
+        "length": 80
+      },
+      {
+        "name": "PL_PFIRM15",
+        "type": "esriFieldTypeString",
+        "alias": "PL_PFIRM15",
+        "length": 80
+      },
+      {
+        "name": "Latitude",
+        "type": "esriFieldTypeDouble",
+        "alias": "Latitude"
+      },
+      {
+        "name": "Longitude",
+        "type": "esriFieldTypeDouble",
+        "alias": "Longitude"
+      },
+      {
+        "name": "GeomSource",
+        "type": "esriFieldTypeString",
+        "alias": "GeomSource",
+        "length": 80
+      },
+      {
+        "name": "DCPEdited",
+        "type": "esriFieldTypeString",
+        "alias": "DCPEdited",
+        "length": 91
+      },
+      {
+        "name": "Version",
+        "type": "esriFieldTypeString",
+        "alias": "Version",
+        "length": 80
+      }
+    ],
+    "features": [
+      {
+        "attributes": {
+          "OBJECTID": 1,
+          "Job_Number": "102133451",
+          "Job_Type": "Alteration",
+          "ResidFlag": "Residential",
+          "NonresFlag": " ",
+          "Job_Inactv": " ",
+          "Job_Status": "3. Permitted for Construction",
+          "CompltYear": " ",
+          "CompltQrtr": " ",
+          "PermitYear": "2003",
+          "PermitQrtr": "2003Q4",
+          "ClassAInit": 8.0,
+          "ClassAProp": 8.0,
+          "ClassANet": 0.0,
+          "ClassA_HNY": 0.0,
+          "HotelInit": 0,
+          "HotelProp": 0,
+          "OtherBInit": 0,
+          "OtherBProp": 0,
+          "Units_CO": 0.0,
+          "Boro": "1",
+          "BIN": "1002116",
+          "BBL": "1001877502",
+          "AddressNum": "64",
+          "AddressSt": "NORTH MOORE STREET",
+          "Occ_Init": "Residential: Not Specified (RES)",
+          "Occ_Prop": "Residential: Not Specified (RES)",
+          "Bldg_Class": "R0",
+          "Job_Desc": "CONSTRUCTION OF NEW PENTHOUSE;DEMOLITION OF INTERIOR NON-LOADBEARING PARTITIONS;CONSTRUCTION OF NEW PARTITIONS;INSTALLATION OF NEW PLUMBING FIXTURES. ALONG WITH APPLICATION 102742828 THIS APPLICATION AMENDS CO# 79706.",
+          "DateFiled": "2001-02-06",
+          "DatePermit": 1069718400000,
+          "DateLstUpd": "2023-07-03",
+          "DateComplt": null,
+          "ZoningDst1": "C6-2A",
+          "ZoningDst2": " ",
+          "ZoningDst3": " ",
+          "SpeclDst1": " ",
+          "SpeclDst2": " ",
+          "Landmark": "Yes",
+          "FloorsInit": 0.0,
+          "FloorsProp": 5.0,
+          "Enlargemnt": " ",
+          "EnlrgSF": "1020",
+          "Ownership": "Private For-Profit: Corporation",
+          "CenBlock20": "360610039003003",
+          "CenTract20": "36061003900",
+          "BCTCB2020": "10039003003",
+          "BCT2020": "1003900",
+          "NTA2020": "MN0102",
+          "NTAName20": "Tribeca-Civic Center",
+          "CDTA2020": "MN01",
+          "CDTAName20": "MN01 Financial District-Tribeca (CD 1 Equivalent)",
+          "CommntyDst": "101",
+          "CouncilDst": "01",
+          "SchSubDist": "2_2",
+          "SchCommnty": "02",
+          "SchElmntry": "818",
+          "SchMiddle": "94",
+          "FireCmpany": "E007",
+          "FireBattln": "01",
+          "FireDivsn": "01",
+          "PolicePcnt": "001",
+          "PL_FIRM07": " ",
+          "PL_PFIRM15": " ",
+          "Latitude": 40.71984483,
+          "Longitude": -74.00958759,
+          "GeomSource": "BIN DOB buildingfootprints",
+          "DCPEdited": "classa_init/hotel_init/classa_prop/otherb_prop/otherb_init/hotel_prop",
+          "Version": "23Q2"
+        },
+        "geometry": {
+          "x": 981592.33634017408,
+          "y": 201535.55367158353
+        }
+      },
+      {
+        "attributes": {
+          "OBJECTID": 29733,
+          "Job_Number": "321600497",
+          "Job_Type": "New Building",
+          "ResidFlag": "Residential",
+          "NonresFlag": " ",
+          "Job_Inactv": " ",
+          "Job_Status": "3. Permitted for Construction",
+          "CompltYear": " ",
+          "CompltQrtr": " ",
+          "PermitYear": "2023",
+          "PermitQrtr": "2023Q2",
+          "ClassAInit": 0.0,
+          "ClassAProp": 44.0,
+          "ClassANet": 44.0,
+          "ClassA_HNY": 0.0,
+          "HotelInit": 0,
+          "HotelProp": 0,
+          "OtherBInit": 0,
+          "OtherBProp": 0,
+          "Units_CO": 0.0,
+          "Boro": "3",
+          "BIN": "3429247",
+          "BBL": "3010280007",
+          "AddressNum": "487",
+          "AddressSt": "FOURTH AVENUE",
+          "Occ_Init": "Empty Site",
+          "Occ_Prop": "Residential: 3 or More Units (R-2)",
+          "Bldg_Class": "V1",
+          "Job_Desc": " ",
+          "DateFiled": "2021-07-06",
+          "DatePermit": 1686528000000,
+          "DateLstUpd": "2023-08-10",
+          "DateComplt": null,
+          "ZoningDst1": "C4-4D",
+          "ZoningDst2": "R9A",
+          "ZoningDst3": " ",
+          "SpeclDst1": " ",
+          "SpeclDst2": "MIH",
+          "Landmark": " ",
+          "FloorsInit": 0.0,
+          "FloorsProp": 11.0,
+          "Enlargemnt": " ",
+          "EnlrgSF": "0",
+          "Ownership": "Private For-Profit: Corporation",
+          "CenBlock20": "360470139002000",
+          "CenTract20": "36047013900",
+          "BCTCB2020": "30139002000",
+          "BCT2020": "3013900",
+          "NTA2020": "BK0602",
+          "NTAName20": "Park Slope",
+          "CDTA2020": "BK06",
+          "CDTAName20": "BK06 Park Slope-Carroll Gardens (CD 6 Approximation)",
+          "CommntyDst": "306",
+          "CouncilDst": "38",
+          "SchSubDist": "15_2",
+          "SchCommnty": "15",
+          "SchElmntry": "111",
+          "SchMiddle": "278",
+          "FireCmpany": "E239",
+          "FireBattln": "48",
+          "FireDivsn": "11",
+          "PolicePcnt": "078",
+          "PL_FIRM07": " ",
+          "PL_PFIRM15": " ",
+          "Latitude": 40.668261,
+          "Longitude": -73.990004,
+          "GeomSource": "Lat/Lon geosupport",
+          "DCPEdited": " ",
+          "Version": "23Q2"
+        },
+        "geometry": {
+          "x": 987023.0187202543,
+          "y": 182742.05845025182
+        }
+      }
+    ]}
